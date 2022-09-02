@@ -1,0 +1,15 @@
+I:\GeekBrains\Zadacha№2\Zadacha_52\bin\Debug\net6.0\Zadacha_52.exe
+I:\GeekBrains\Zadacha№2\Zadacha_52\bin\Debug\net6.0\Zadacha_52.deps.json
+I:\GeekBrains\Zadacha№2\Zadacha_52\bin\Debug\net6.0\Zadacha_52.runtimeconfig.json
+I:\GeekBrains\Zadacha№2\Zadacha_52\bin\Debug\net6.0\Zadacha_52.dll
+I:\GeekBrains\Zadacha№2\Zadacha_52\bin\Debug\net6.0\Zadacha_52.pdb
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.csproj.AssemblyReference.cache
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.AssemblyInfoInputs.cache
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.AssemblyInfo.cs
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.csproj.CoreCompileInputs.cache
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.dll
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\refint\Zadacha_52.dll
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.pdb
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\Zadacha_52.genruntimeconfig.cache
+I:\GeekBrains\Zadacha№2\Zadacha_52\obj\Debug\net6.0\ref\Zadacha_52.dll
