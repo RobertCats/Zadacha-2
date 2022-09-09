@@ -1,0 +1,15 @@
+I:\GeekBrains\Zadacha№2\Zadanie_68\bin\Debug\net6.0\Zadanie_68.exe
+I:\GeekBrains\Zadacha№2\Zadanie_68\bin\Debug\net6.0\Zadanie_68.deps.json
+I:\GeekBrains\Zadacha№2\Zadanie_68\bin\Debug\net6.0\Zadanie_68.runtimeconfig.json
+I:\GeekBrains\Zadacha№2\Zadanie_68\bin\Debug\net6.0\Zadanie_68.dll
+I:\GeekBrains\Zadacha№2\Zadanie_68\bin\Debug\net6.0\Zadanie_68.pdb
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.csproj.AssemblyReference.cache
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.AssemblyInfoInputs.cache
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.AssemblyInfo.cs
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.csproj.CoreCompileInputs.cache
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.dll
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\refint\Zadanie_68.dll
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.pdb
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\Zadanie_68.genruntimeconfig.cache
+I:\GeekBrains\Zadacha№2\Zadanie_68\obj\Debug\net6.0\ref\Zadanie_68.dll
