@@ -1,0 +1,15 @@
+I:\GeekBrains\Zadacha№2\Block_total\bin\Debug\net6.0\Block_total.exe
+I:\GeekBrains\Zadacha№2\Block_total\bin\Debug\net6.0\Block_total.deps.json
+I:\GeekBrains\Zadacha№2\Block_total\bin\Debug\net6.0\Block_total.runtimeconfig.json
+I:\GeekBrains\Zadacha№2\Block_total\bin\Debug\net6.0\Block_total.dll
+I:\GeekBrains\Zadacha№2\Block_total\bin\Debug\net6.0\Block_total.pdb
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.csproj.AssemblyReference.cache
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.AssemblyInfoInputs.cache
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.AssemblyInfo.cs
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.csproj.CoreCompileInputs.cache
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.dll
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\refint\Block_total.dll
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.pdb
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\Block_total.genruntimeconfig.cache
+I:\GeekBrains\Zadacha№2\Block_total\obj\Debug\net6.0\ref\Block_total.dll
