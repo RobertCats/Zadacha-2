@@ -1,5 +1,5 @@
 
-Задача 1
+#Задача 1
 
 def InputNumbers(inputText):
     is_OK = False
